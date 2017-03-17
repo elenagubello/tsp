@@ -10,6 +10,7 @@
 int main(int argc, char **argv)
 {
 	printf("Ciao popollo :)");
+	printf("Sto coso non va");
 	return 0;
 }
 
